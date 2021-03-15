@@ -1,0 +1,11 @@
+ABC:210:250:Raja:20:
+Abhi:220:200:Rama:20:
+Asha:230:260:Ateam:25:
+Rahul:240:210:Kathariveera:20:
+Nartaki:250:190:Vaali:20:
+Shanti:260:110:Avanger:20:
+Gita:270:100:Bulbuli:20:
+Raja:280:110:Vishu:20:
+Naita:290:120:Jogayya:20:
+Padma:300:130:Mungaru:20:
+ASD:123:140:Raone:98

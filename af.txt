@@ -1,0 +1,10 @@
+RDC:310:120:huli:20:
+Sita:320:140:Rama:20:
+Woods:330:130:Furious7:25:
+Leela:340:100:Kathira:20:
+Sanjeev:350:110:Vasishta:20:
+Imax:360:85:TAKEN:20:
+PVR:370:90:AGE:20:
+Torentz:380:125:Singham:20:
+Ninad:390:135:Jogi:10:
+Pratham:400:95:Masthi:20:

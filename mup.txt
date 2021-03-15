@@ -1,0 +1,9 @@
+Lido:140:80.0:Kathi:7:
+Sangam:150:75.0:Veera:10:
+Shantala:160:65.0:Avangers:10:
+Gayatri:170:90.0:Bulbul:10:
+Laxmi:180:80.0:Vishnu:10:
+Nataraj:190:50.0:Jogi:10:
+Padmashri:200:110.0:Male:10:
+lakshmi:1111:200.0:munhh:50:
+

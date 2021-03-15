@@ -1,0 +1,8 @@
+aAbcd:134:140:rock:50:
+Lido:135:110:Gijoe:60:
+max:160:85:TAKEN2:20:
+PVRx:170:90:AGE2:20:
+Torent:180:125:Singham2:20:
+Ninada:190:135:Jogi2:10:
+Prathama:200:95:Masthi2:20:
+xyz:132:140:adcf:70
